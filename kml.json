@@ -1,0 +1,4182 @@
+{
+  "type": "FeatureCollection",
+  "name": "Geofences",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carefore Market",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7946375915,
+              -1.2977148062
+            ],
+            [
+              36.7954368898,
+              -1.2976719019
+            ],
+            [
+              36.7955924579,
+              -1.2976665388
+            ],
+            [
+              36.7957319328,
+              -1.2984280907
+            ],
+            [
+              36.7947931596,
+              -1.2984924472
+            ],
+            [
+              36.7946375915,
+              -1.2977148062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Enterprises",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8224293373,
+              -1.3015790406
+            ],
+            [
+              36.8226653717,
+              -1.3013055259
+            ],
+            [
+              36.8229872368,
+              -1.3011875391
+            ],
+            [
+              36.8232876442,
+              -1.301176813
+            ],
+            [
+              36.8234056614,
+              -1.3014288757
+            ],
+            [
+              36.8234485768,
+              -1.3017452947
+            ],
+            [
+              36.8231803559,
+              -1.3019330008
+            ],
+            [
+              36.8227190159,
+              -1.3018686444
+            ],
+            [
+              36.8224293373,
+              -1.3015790406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Garden City",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.877230979,
+              -1.2321907688
+            ],
+            [
+              36.8791836271,
+              -1.2306676259
+            ],
+            [
+              36.8808787832,
+              -1.2325661912
+            ],
+            [
+              36.8786471853,
+              -1.2342287755
+            ],
+            [
+              36.877230979,
+              -1.2321907688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Market Valley Arcade",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7696758266,
+              -1.2900534281
+            ],
+            [
+              36.7710920329,
+              -1.2900856065
+            ],
+            [
+              36.7710383887,
+              -1.2911903962
+            ],
+            [
+              36.7696865554,
+              -1.2911743071
+            ],
+            [
+              36.7696758266,
+              -1.2900534281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Nextgen",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8432970996,
+              -1.3230306582
+            ],
+            [
+              36.8444665427,
+              -1.3236474018
+            ],
+            [
+              36.8440481181,
+              -1.324661006
+            ],
+            [
+              36.8427445645,
+              -1.3239959959
+            ],
+            [
+              36.8432970996,
+              -1.3230306582
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour The Hub",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7026539156,
+              -1.3199552436
+            ],
+            [
+              36.7041452238,
+              -1.3189684524
+            ],
+            [
+              36.7052073786,
+              -1.3201751263
+            ],
+            [
+              36.7036463329,
+              -1.3213978887
+            ],
+            [
+              36.7026539156,
+              -1.3199552436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Village Market",
+        "description": "-1.2285224780512694, 36.80471165408145"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8047116541,
+              -1.2285224781
+            ],
+            [
+              36.8051193499,
+              -1.2271709551
+            ],
+            [
+              36.8063638948,
+              -1.2276214628
+            ],
+            [
+              36.80576308,
+              -1.2290319806
+            ],
+            [
+              36.8047116541,
+              -1.2285224781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Westgate",
+        "description": "Mwanzi Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8023674034,
+              -1.256872122
+            ],
+            [
+              36.803016498,
+              -1.2559174852
+            ],
+            [
+              36.8041376614,
+              -1.2565717869
+            ],
+            [
+              36.8035368465,
+              -1.2576551385
+            ],
+            [
+              36.8023674034,
+              -1.256872122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Thika Road Mall",
+        "description": "Trm Drive, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8883804821,
+              -1.2191851568
+            ],
+            [
+              36.8897484087,
+              -1.2196517555
+            ],
+            [
+              36.8894480013,
+              -1.2205045046
+            ],
+            [
+              36.88789232,
+              -1.2199252788
+            ],
+            [
+              36.8883804821,
+              -1.2191851568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour St. Ellis",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8224524002,
+              -1.2860525584
+            ],
+            [
+              36.822875024,
+              -1.2858218964
+            ],
+            [
+              36.8232612621,
+              -1.2863367508
+            ],
+            [
+              36.8227677357,
+              -1.2865780888
+            ],
+            [
+              36.8224524002,
+              -1.2860525584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Mega",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8251128503,
+              -1.3015654675
+            ],
+            [
+              36.8258638689,
+              -1.3011256987
+            ],
+            [
+              36.8264378616,
+              -1.3023055661
+            ],
+            [
+              36.8256331989,
+              -1.302627348
+            ],
+            [
+              36.8251128503,
+              -1.3015654675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Junction",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7617533945,
+              -1.2973687794
+            ],
+            [
+              36.7636577629,
+              -1.2977978228
+            ],
+            [
+              36.7634431862,
+              -1.2991707612
+            ],
+            [
+              36.761490538,
+              -1.2987309919
+            ],
+            [
+              36.7617533945,
+              -1.2973687794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour Galleria",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7646930956,
+              -1.3425949109
+            ],
+            [
+              36.7652939104,
+              -1.3427665252
+            ],
+            [
+              36.7659376406,
+              -1.3428576952
+            ],
+            [
+              36.7662702345,
+              -1.3429059617
+            ],
+            [
+              36.7663721584,
+              -1.3430507612
+            ],
+            [
+              36.7661629461,
+              -1.343924921
+            ],
+            [
+              36.7650793337,
+              -1.3438015733
+            ],
+            [
+              36.7643336796,
+              -1.3436138703
+            ],
+            [
+              36.7646930956,
+              -1.3425949109
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carrefour BBS",
+        "description": "Muratina Street, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8466871798,
+              -1.2786252181
+            ],
+            [
+              36.8470144093,
+              -1.2782176238
+            ],
+            [
+              36.8476474107,
+              -1.2781103622
+            ],
+            [
+              36.8481033862,
+              -1.2784267841
+            ],
+            [
+              36.8482321322,
+              -1.2787217536
+            ],
+            [
+              36.8480282844,
+              -1.2790542647
+            ],
+            [
+              36.8472826302,
+              -1.2791776155
+            ],
+            [
+              36.8466871798,
+              -1.2786252181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana ABC Place",
+        "description": "Waiyaki Way, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7760952267,
+              -1.2594888598
+            ],
+            [
+              36.7778976711,
+              -1.2593333293
+            ],
+            [
+              36.7779888662,
+              -1.259896457
+            ],
+            [
+              36.7761810574,
+              -1.2600466244
+            ],
+            [
+              36.7760952267,
+              -1.2594888598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana Adlife Plaza Kilimani",
+        "description": "Chania Avenue, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7871485579,
+              -1.2950840933
+            ],
+            [
+              36.7873899568,
+              -1.2950706857
+            ],
+            [
+              36.7875294316,
+              -1.2950706857
+            ],
+            [
+              36.7874650586,
+              -1.2947274506
+            ],
+            [
+              36.7870815027,
+              -1.2948427562
+            ],
+            [
+              36.7871485579,
+              -1.2950840933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana Lavington Green Mall",
+        "description": "Muthangari Green, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7696196705,
+              -1.2794880649
+            ],
+            [
+              36.7706496387,
+              -1.2801209084
+            ],
+            [
+              36.7708373934,
+              -1.2802603484
+            ],
+            [
+              36.7705208927,
+              -1.2806893947
+            ],
+            [
+              36.7693299919,
+              -1.2799224744
+            ],
+            [
+              36.7696196705,
+              -1.2794880649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana Peace Towers, Ngara Rd",
+        "description": "Itesyo Lane, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8190339854,
+              -1.2739744365
+            ],
+            [
+              36.8193665793,
+              -1.2742050495
+            ],
+            [
+              36.8192163756,
+              -1.2743820315
+            ],
+            [
+              36.8188945105,
+              -1.2741460555
+            ],
+            [
+              36.8190339854,
+              -1.2739744365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana Yaya Center",
+        "description": "Argwings Kodhek Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7873412372,
+              -1.2924938652
+            ],
+            [
+              36.7875128986,
+              -1.2923168844
+            ],
+            [
+              36.7880654337,
+              -1.292472413
+            ],
+            [
+              36.788403392,
+              -1.2925689479
+            ],
+            [
+              36.788467765,
+              -1.2928210114
+            ],
+            [
+              36.7880815269,
+              -1.2929497247
+            ],
+            [
+              36.7878293993,
+              -1.29329296
+            ],
+            [
+              36.7876952888,
+              -1.2934163102
+            ],
+            [
+              36.787518263,
+              -1.2935289342
+            ],
+            [
+              36.7873412372,
+              -1.2924938652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CleanShelf Langata",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7528391311,
+              -1.3964135632
+            ],
+            [
+              36.7533433864,
+              -1.3963867491
+            ],
+            [
+              36.7534372637,
+              -1.396542271
+            ],
+            [
+              36.7534855435,
+              -1.3968104122
+            ],
+            [
+              36.7531663606,
+              -1.3969015802
+            ],
+            [
+              36.7528981397,
+              -1.3968425892
+            ],
+            [
+              36.7528391311,
+              -1.3964135632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cleanshelf Ruaka",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7798316693,
+              -1.2054043619
+            ],
+            [
+              36.7793461895,
+              -1.2054284965
+            ],
+            [
+              36.7793488717,
+              -1.205592075
+            ],
+            [
+              36.7794347024,
+              -1.2056939764
+            ],
+            [
+              36.7795822239,
+              -1.2057636984
+            ],
+            [
+              36.7797458386,
+              -1.2058092858
+            ],
+            [
+              36.779853127,
+              -1.2058066042
+            ],
+            [
+              36.7799523687,
+              -1.2057181109
+            ],
+            [
+              36.7799550509,
+              -1.2055411243
+            ],
+            [
+              36.7798316693,
+              -1.2054043619
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kenpoly Manufacturers ltd",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8827783733,
+              -1.3028009257
+            ],
+            [
+              36.8849455982,
+              -1.3043454783
+            ],
+            [
+              36.884301868,
+              -1.3054502618
+            ],
+            [
+              36.881093946,
+              -1.3046994381
+            ],
+            [
+              36.8827783733,
+              -1.3028009257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Ananas Mall Thika",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1139475,
+          -1.0557004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Bombolulu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6933695,
+          -4.0279502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Bamburi",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.7015887848,
+              -4.0024541674
+            ],
+            [
+              39.7018677346,
+              -4.0024407891
+            ],
+            [
+              39.7021252266,
+              -4.0024461404
+            ],
+            [
+              39.7021600954,
+              -4.0027725718
+            ],
+            [
+              39.7019079677,
+              -4.0029331117
+            ],
+            [
+              39.7015592805,
+              -4.0028635444
+            ],
+            [
+              39.7015887848,
+              -4.0024541674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Agakhan Walk",
+        "description": "Aga Khan Walk, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.825260853,
+              -1.2872795628
+            ],
+            [
+              36.8255746714,
+              -1.2871079448
+            ],
+            [
+              36.8257516972,
+              -1.2873653718
+            ],
+            [
+              36.8253708235,
+              -1.2875638052
+            ],
+            [
+              36.825260853,
+              -1.2872795628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CleanShelf Shujaa Mall",
+        "description": "Kayole Spine Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.905494375,
+              -1.2812736517
+            ],
+            [
+              36.9055748412,
+              -1.2810913071
+            ],
+            [
+              36.9056579897,
+              -1.2809411409
+            ],
+            [
+              36.9057679603,
+              -1.2807266178
+            ],
+            [
+              36.9058216045,
+              -1.2806247193
+            ],
+            [
+              36.9059771726,
+              -1.2806837132
+            ],
+            [
+              36.906111283,
+              -1.2807722039
+            ],
+            [
+              36.9061837027,
+              -1.2809196886
+            ],
+            [
+              36.9062400291,
+              -1.2811234855
+            ],
+            [
+              36.9061595628,
+              -1.2812843778
+            ],
+            [
+              36.9060790965,
+              -1.2813970024
+            ],
+            [
+              36.9057679603,
+              -1.2814425886
+            ],
+            [
+              36.905494375,
+              -1.2812736517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CleanShelf Limuru",
+        "description": "Manguo Road, Kiambu, Kenya, Limuru"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.64075918,
+              -1.1059703499
+            ],
+            [
+              36.6408932905,
+              -1.1058791718
+            ],
+            [
+              36.641054223,
+              -1.1057772669
+            ],
+            [
+              36.6412071089,
+              -1.1058791718
+            ],
+            [
+              36.6413063507,
+              -1.106034711
+            ],
+            [
+              36.6412500243,
+              -1.1060963903
+            ],
+            [
+              36.6410649519,
+              -1.1061848867
+            ],
+            [
+              36.6409791212,
+              -1.1062385209
+            ],
+            [
+              36.64075918,
+              -1.1059703499
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cleanshelf Kahawa",
+        "description": "Kahawa Wendani, Kiambu, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.926823301,
+              -1.1976083176
+            ],
+            [
+              36.9270137379,
+              -1.1976753582
+            ],
+            [
+              36.9269493649,
+              -1.1977933496
+            ],
+            [
+              36.9268072078,
+              -1.1977531252
+            ],
+            [
+              36.9267642924,
+              -1.1977450804
+            ],
+            [
+              36.926823301,
+              -1.1976083176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana The Well Mall",
+        "description": "Mokoyeti Road East, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7562231738,
+              -1.3402203112
+            ],
+            [
+              36.7573443372,
+              -1.3404241033
+            ],
+            [
+              36.7572048623,
+              -1.3413250788
+            ],
+            [
+              36.756110521,
+              -1.3411534644
+            ],
+            [
+              36.7562231738,
+              -1.3402203112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana MyTown Mall Karen",
+        "description": "Langata Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7251025197,
+              -1.3369207918
+            ],
+            [
+              36.7251507995,
+              -1.3374785394
+            ],
+            [
+              36.7245821712,
+              -1.3374409987
+            ],
+            [
+              36.7246143577,
+              -1.3369207918
+            ],
+            [
+              36.7246250865,
+              -1.3368564363
+            ],
+            [
+              36.7251025197,
+              -1.3369207918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandarana Diamond Plaza",
+        "description": "4Th Parklands Avenue, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8182403142,
+              -1.2579520791
+            ],
+            [
+              36.8188169892,
+              -1.2582845929
+            ],
+            [
+              36.8184441621,
+              -1.2588584471
+            ],
+            [
+              36.8178165252,
+              -1.2585259335
+            ],
+            [
+              36.8182403142,
+              -1.2579520791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Bungoma",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5607359,
+          0.5605309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Eldoret Referral",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.2867081702,
+              0.5099155633
+            ],
+            [
+              35.2876254857,
+              0.5096580814
+            ],
+            [
+              35.2878883422,
+              0.510403706
+            ],
+            [
+              35.2869656623,
+              0.510795293
+            ],
+            [
+              35.2867081702,
+              0.5099155633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Embakasi Express",
+        "description": "Airport North Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8908896433,
+              -1.3284380706
+            ],
+            [
+              36.8914797292,
+              -1.328011714
+            ],
+            [
+              36.8919464336,
+              -1.3284327076
+            ],
+            [
+              36.8912356482,
+              -1.3289582793
+            ],
+            [
+              36.8908896433,
+              -1.3284380706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Eldoret Sokoni",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.272897564,
+              0.5172672279
+            ],
+            [
+              35.2726508007,
+              0.5173396446
+            ],
+            [
+              35.2724254952,
+              0.5168354098
+            ],
+            [
+              35.2727634535,
+              0.5167469005
+            ],
+            [
+              35.272897564,
+              0.5172672279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Embu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4596409,
+          -0.5388381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Gatewaymall Branch- Syokimau",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9117918,
+          -1.3642102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Imara Mall  Foodmarket",
+        "description": "Tegla Lorupe Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8808293212,
+              -1.3281861624
+            ],
+            [
+              36.8808293212,
+              -1.327306634
+            ],
+            [
+              36.8820416796,
+              -1.3273495379
+            ],
+            [
+              36.8819451201,
+              -1.328261244
+            ],
+            [
+              36.8808293212,
+              -1.3281861624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Greenspan Foodmarket",
+        "description": "Savannah Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9001551917,
+              -1.2888717067
+            ],
+            [
+              36.9010993293,
+              -1.2881316042
+            ],
+            [
+              36.9017645172,
+              -1.2888288022
+            ],
+            [
+              36.9006916335,
+              -1.2895903567
+            ],
+            [
+              36.9001551917,
+              -1.2888717067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Juja City Foodmarket",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0089375,
+          -1.1176875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kahawa West",
+        "description": "Kahawa Station Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9020793566,
+              -1.1838417033
+            ],
+            [
+              36.9025165567,
+              -1.1840186914
+            ],
+            [
+              36.9023958573,
+              -1.1843243979
+            ],
+            [
+              36.9019291529,
+              -1.1841474099
+            ],
+            [
+              36.9020793566,
+              -1.1838417033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kapsabet",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978385,
+          0.202957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kangemi",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.749148,
+          -1.266241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Katani Foodmarket",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9225457327,
+              -1.3738614426
+            ],
+            [
+              36.9232806579,
+              -1.3745183948
+            ],
+            [
+              36.9236266629,
+              -1.3740732762
+            ],
+            [
+              36.9229185597,
+              -1.3734753155
+            ],
+            [
+              36.9225457327,
+              -1.3738614426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kericho",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2839004,
+          -0.3693573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kiambu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8383973,
+          -1.2257425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kiambu Mall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8239122679,
+              -1.1649046104
+            ],
+            [
+              36.824234133,
+              -1.1654087614
+            ],
+            [
+              36.8250066091,
+              -1.1650655096
+            ],
+            [
+              36.8243789722,
+              -1.1644969988
+            ],
+            [
+              36.8239122679,
+              -1.1649046104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kilifi",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8475918,
+          -3.6320933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kisii",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7720437,
+          -0.6720741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kisumu CBD",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.7568466205,
+              -0.1023465357
+            ],
+            [
+              34.7562136191,
+              -0.1028722478
+            ],
+            [
+              34.7565998572,
+              -0.1032692141
+            ],
+            [
+              34.7571792144,
+              -0.1027327732
+            ],
+            [
+              34.7568466205,
+              -0.1023465357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kitengela",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9583793,
+          -1.479082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Kitui",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0090996,
+          -1.3660044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Lifestyle Foodmarket",
+        "description": "Koinage Street, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8176042095,
+              -1.2815612315
+            ],
+            [
+              36.8185537115,
+              -1.2811000069
+            ],
+            [
+              36.8190955177,
+              -1.2820331822
+            ],
+            [
+              36.818097736,
+              -1.2825534004
+            ],
+            [
+              36.8176042095,
+              -1.2815612315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Likoni",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.6654179839,
+              -4.0740312652
+            ],
+            [
+              39.6661582736,
+              -4.0742399488
+            ],
+            [
+              39.6660080699,
+              -4.0747001227
+            ],
+            [
+              39.6658095864,
+              -4.07524591
+            ],
+            [
+              39.6657559422,
+              -4.0754438916
+            ],
+            [
+              39.6653857974,
+              -4.0753796814
+            ],
+            [
+              39.66508539,
+              -4.0752352083
+            ],
+            [
+              39.6654179839,
+              -4.0740312652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Limuru Express",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.6406643474,
+              -1.1080758469
+            ],
+            [
+              36.6409862125,
+              -1.1081375262
+            ],
+            [
+              36.6413295352,
+              -1.1081992055
+            ],
+            [
+              36.6413241708,
+              -1.107662864
+            ],
+            [
+              36.6405919278,
+              -1.1075421871
+            ],
+            [
+              36.6406643474,
+              -1.1080758469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Machakos Old",
+        "description": "Mwatu Wa Ngoma Street, Machakos, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.2672810538,
+              -1.5196829288
+            ],
+            [
+              37.2674312575,
+              -1.519211026
+            ],
+            [
+              37.2679086907,
+              -1.519382627
+            ],
+            [
+              37.2678979619,
+              -1.5199027926
+            ],
+            [
+              37.2672810538,
+              -1.5196829288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Maiyan Mall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7619711,
+          -1.3973429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Malindi",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1169962,
+          -3.2084236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Mega City Foodmarket",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.7691467396,
+              -0.1068959556
+            ],
+            [
+              34.7693613163,
+              -0.1075611423
+            ],
+            [
+              34.771051108,
+              -0.107464583
+            ],
+            [
+              34.7709760061,
+              -0.1065848199
+            ],
+            [
+              34.7691467396,
+              -0.1068959556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Mountain Mall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8713202976,
+              -1.221559664
+            ],
+            [
+              36.8718379639,
+              -1.2213290465
+            ],
+            [
+              36.871980121,
+              -1.2216856992
+            ],
+            [
+              36.8716448449,
+              -1.2217849184
+            ],
+            [
+              36.8713202976,
+              -1.221559664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Mountain View",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7409511,
+          -1.2655861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Mwembe Tayari",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.6692693881,
+              -4.0567567788
+            ],
+            [
+              39.6703047208,
+              -4.0571741549
+            ],
+            [
+              39.6700847796,
+              -4.0576396895
+            ],
+            [
+              39.668947523,
+              -4.0572704724
+            ],
+            [
+              39.6692693881,
+              -4.0567567788
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Nakuru Downtown",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.0747393996,
+              -0.2878492326
+            ],
+            [
+              36.0754099519,
+              -0.2875836973
+            ],
+            [
+              36.075578931,
+              -0.2881335432
+            ],
+            [
+              36.0748332769,
+              -0.2883266598
+            ],
+            [
+              36.0747393996,
+              -0.2878492326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Nyeri",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9580104,
+          -0.437099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Prestige Branch",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7870774,
+          -1.3004076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Safari Center Naivasha",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.4708765805,
+              -0.7546368398
+            ],
+            [
+              36.4718636334,
+              -0.7553180618
+            ],
+            [
+              36.4725824654,
+              -0.7543686422
+            ],
+            [
+              36.4716168702,
+              -0.7536069608
+            ],
+            [
+              36.4708765805,
+              -0.7546368398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Pearl Centre",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.450512,
+          -0.53688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Narok",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8771055,
+          -1.0875197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Naivasha Ndogo",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.4353750056,
+              -0.7162093979
+            ],
+            [
+              36.4361528462,
+              -0.7162630379
+            ],
+            [
+              36.4361313885,
+              -0.7166975218
+            ],
+            [
+              36.4352408951,
+              -0.7166599738
+            ],
+            [
+              36.4353750056,
+              -0.7162093979
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Muindi Mbingu Express",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8197262026,
+              -1.2831312044
+            ],
+            [
+              36.820013199,
+              -1.2829676306
+            ],
+            [
+              36.8201902248,
+              -1.2832786889
+            ],
+            [
+              36.8198388554,
+              -1.2834047211
+            ],
+            [
+              36.8197262026,
+              -1.2831312044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Mountain Mall Foodmarket",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.871828,
+          -1.221771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Spur Mall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9698559881,
+              -1.1357583028
+            ],
+            [
+              36.9693249107,
+              -1.1365628073
+            ],
+            [
+              36.9699042679,
+              -1.1370294198
+            ],
+            [
+              36.9705265404,
+              -1.1361873719
+            ],
+            [
+              36.9698559881,
+              -1.1357583028
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Super Center Nyali",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7185234,
+          -4.0216664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Supercentre Nakuru",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0891346415,
+          -0.281870682883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Supermarket - Zion mall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.2778977918,
+              0.5175853871
+            ],
+            [
+              35.2786541748,
+              0.5173439982
+            ],
+            [
+              35.2789814043,
+              0.5181593564
+            ],
+            [
+              35.2780372667,
+              0.5183953811
+            ],
+            [
+              35.2778977918,
+              0.5175853871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Thika Town",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.0725793464,
+              -1.0364112123
+            ],
+            [
+              37.0732405989,
+              -1.0364916404
+            ],
+            [
+              37.0733157008,
+              -1.0359660134
+            ],
+            [
+              37.0726236909,
+              -1.0358265613
+            ],
+            [
+              37.0725793464,
+              -1.0364112123
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Waterfront Foodmarket",
+        "description": "Langata Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7139266676,
+              -1.3295562405
+            ],
+            [
+              36.7146937794,
+              -1.3290038541
+            ],
+            [
+              36.7154394335,
+              -1.3298029373
+            ],
+            [
+              36.7146991438,
+              -1.3305001237
+            ],
+            [
+              36.7139266676,
+              -1.3295562405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Westlands",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.802796,
+          -1.264398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Bandari",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.6642763666,
+              -4.0583109589
+            ],
+            [
+              39.6645150832,
+              -4.0583591176
+            ],
+            [
+              39.6647886685,
+              -4.0584233292
+            ],
+            [
+              39.6647457532,
+              -4.0587256588
+            ],
+            [
+              39.6646679691,
+              -4.0589584257
+            ],
+            [
+              39.6646491937,
+              -4.0590654449
+            ],
+            [
+              39.6643085531,
+              -4.0590092598
+            ],
+            [
+              39.6640725187,
+              -4.0589236444
+            ],
+            [
+              39.6642763666,
+              -4.0583109589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Chaka Rd",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7924447664,
+              -1.2926741462
+            ],
+            [
+              36.7931099543,
+              -1.2926687831
+            ],
+            [
+              36.7932977089,
+              -1.2934571518
+            ],
+            [
+              36.7925359615,
+              -1.2932962602
+            ],
+            [
+              36.7924447664,
+              -1.2926741462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Chania",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.072127,
+          -1.041033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Buruburu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8806576296,
+              -1.2879022526
+            ],
+            [
+              36.8808078333,
+              -1.2883715205
+            ],
+            [
+              36.881510572,
+              -1.2880819152
+            ],
+            [
+              36.8813389107,
+              -1.2876126472
+            ],
+            [
+              36.8806576296,
+              -1.2879022526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Niavas Digo Rd,Mombasa",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.6719408081,
+              -4.0615779803
+            ],
+            [
+              39.6715760277,
+              -4.0625679046
+            ],
+            [
+              39.6725791738,
+              -4.062878259
+            ],
+            [
+              39.672863488,
+              -4.061797369
+            ],
+            [
+              39.6719408081,
+              -4.0615779803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Westend Branch Nakuru",
+        "description": "West Road, Nakuru, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.0630543576,
+              -0.2867527803
+            ],
+            [
+              36.0649319039,
+              -0.2861412443
+            ],
+            [
+              36.0652859555,
+              -0.2874716033
+            ],
+            [
+              36.0633225785,
+              -0.2879329374
+            ],
+            [
+              36.0630543576,
+              -0.2867527803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naivas Ukunda",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5661889,
+          -4.2807655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Express Machakos",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.928814,
+          -1.354978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Kahawa Sukari",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9322288333,
+              -1.1893895301
+            ],
+            [
+              36.9325533806,
+              -1.1888827018
+            ],
+            [
+              36.9328081905,
+              -1.1890087385
+            ],
+            [
+              36.932969123,
+              -1.1891294119
+            ],
+            [
+              36.9331139623,
+              -1.1893063995
+            ],
+            [
+              36.9329476653,
+              -1.1895343382
+            ],
+            [
+              36.932789415,
+              -1.1897274156
+            ],
+            [
+              36.9327277242,
+              -1.1898132278
+            ],
+            [
+              36.9322288333,
+              -1.1893895301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Kikuyu Rd",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7115162553,
+              -1.2799964367
+            ],
+            [
+              36.7117415609,
+              -1.279878449
+            ],
+            [
+              36.7119400443,
+              -1.2798033658
+            ],
+            [
+              36.7121814431,
+              -1.279749735
+            ],
+            [
+              36.7123155536,
+              -1.2796907412
+            ],
+            [
+              36.7124389352,
+              -1.2798677228
+            ],
+            [
+              36.7125194015,
+              -1.2800125259
+            ],
+            [
+              36.7125247659,
+              -1.2802538645
+            ],
+            [
+              36.7124925794,
+              -1.280425483
+            ],
+            [
+              36.7121492566,
+              -1.2806507323
+            ],
+            [
+              36.7117254676,
+              -1.28055956
+            ],
+            [
+              36.7115162553,
+              -1.2799964367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Kiserian",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.6880164151,
+              -1.4301460525
+            ],
+            [
+              36.6883516912,
+              -1.4299369054
+            ],
+            [
+              36.6885582213,
+              -1.4302291751
+            ],
+            [
+              36.6882444028,
+              -1.4304919497
+            ],
+            [
+              36.6880164151,
+              -1.4301460525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Lavington",
+        "description": "Othaya Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7730476427,
+              -1.2892662451
+            ],
+            [
+              36.7739381361,
+              -1.2892340667
+            ],
+            [
+              36.7739703226,
+              -1.2900385256
+            ],
+            [
+              36.7736699152,
+              -1.2900438887
+            ],
+            [
+              36.7733480501,
+              -1.2900331625
+            ],
+            [
+              36.7730154562,
+              -1.2900117103
+            ],
+            [
+              36.7730476427,
+              -1.2892662451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QUICK MART MOMBASA RD",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8442884685,
+              -1.3218921001
+            ],
+            [
+              36.845026076,
+              -1.3222192424
+            ],
+            [
+              36.8447363974,
+              -1.3228333047
+            ],
+            [
+              36.843961239,
+              -1.3223533172
+            ],
+            [
+              36.8442884685,
+              -1.3218921001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart OTC",
+        "description": "Guasi Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8313431914,
+              -1.2843531764
+            ],
+            [
+              36.8320807989,
+              -1.2847607698
+            ],
+            [
+              36.8316623743,
+              -1.2853453443
+            ],
+            [
+              36.8310374196,
+              -1.2848814388
+            ],
+            [
+              36.8313431914,
+              -1.2843531764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Pioneer CBD",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8260046705,
+              -1.2882258104
+            ],
+            [
+              36.8267127737,
+              -1.2878021285
+            ],
+            [
+              36.8271472916,
+              -1.2886655815
+            ],
+            [
+              36.8264177307,
+              -1.2890088174
+            ],
+            [
+              36.8260046705,
+              -1.2882258104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Roysambu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8918121,
+          -1.2152568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Outering 2",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8832145389,
+              -1.2775851504
+            ],
+            [
+              36.8838636334,
+              -1.2774912964
+            ],
+            [
+              36.8839548285,
+              -1.2780839172
+            ],
+            [
+              36.8833218272,
+              -1.2782019051
+            ],
+            [
+              36.8832145389,
+              -1.2775851504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Nanyuki Branch",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0751401,
+          0.0105298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Mlolongo",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9422285173,
+              -1.3974472683
+            ],
+            [
+              36.9425745223,
+              -1.3971549945
+            ],
+            [
+              36.9428427432,
+              -1.3974767639
+            ],
+            [
+              36.9424270008,
+              -1.3978360729
+            ],
+            [
+              36.9422285173,
+              -1.3974472683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Kitengela",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9538248376,
+              -1.5046946764
+            ],
+            [
+              36.9543773727,
+              -1.5048877289
+            ],
+            [
+              36.9542244868,
+              -1.5054856551
+            ],
+            [
+              36.9536397652,
+              -1.5053757225
+            ],
+            [
+              36.9538248376,
+              -1.5046946764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QUICK MART KILIMANI",
+        "description": "Kirichwa Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7829671536,
+              -1.2980170338
+            ],
+            [
+              36.7834070358,
+              -1.2980089892
+            ],
+            [
+              36.7834499512,
+              -1.2980170338
+            ],
+            [
+              36.7834553156,
+              -1.2981028425
+            ],
+            [
+              36.7834660444,
+              -1.2981993772
+            ],
+            [
+              36.7834231291,
+              -1.2983495424
+            ],
+            [
+              36.7834392223,
+              -1.2984728923
+            ],
+            [
+              36.7834284935,
+              -1.2985479749
+            ],
+            [
+              36.7833909426,
+              -1.2986525541
+            ],
+            [
+              36.7832595143,
+              -1.2986471911
+            ],
+            [
+              36.7831146751,
+              -1.2986445096
+            ],
+            [
+              36.7829993401,
+              -1.298636465
+            ],
+            [
+              36.7829671536,
+              -1.2980170338
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Ruai",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9961312099,
+              -1.2706805871
+            ],
+            [
+              36.9965389057,
+              -1.2702998071
+            ],
+            [
+              36.9966676517,
+              -1.2702139975
+            ],
+            [
+              36.9969412371,
+              -1.2702569023
+            ],
+            [
+              36.9972470089,
+              -1.2704392477
+            ],
+            [
+              36.9974401279,
+              -1.2706323192
+            ],
+            [
+              36.9973596617,
+              -1.2708736587
+            ],
+            [
+              36.99723628,
+              -1.271109635
+            ],
+            [
+              36.9971289917,
+              -1.2712329863
+            ],
+            [
+              36.9970807119,
+              -1.2712705279
+            ],
+            [
+              36.9961312099,
+              -1.2706805871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Shabab",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.059649,
+          -0.295722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Thome",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.871820515,
+              -1.2117712307
+            ],
+            [
+              36.8719304855,
+              -1.2117095537
+            ],
+            [
+              36.872128969,
+              -1.211631787
+            ],
+            [
+              36.8722469862,
+              -1.2116398319
+            ],
+            [
+              36.8723113592,
+              -1.2117363698
+            ],
+            [
+              36.8723703678,
+              -1.2119187192
+            ],
+            [
+              36.8724159654,
+              -1.2120045307
+            ],
+            [
+              36.8723167236,
+              -1.2121225215
+            ],
+            [
+              36.8722228463,
+              -1.2121734721
+            ],
+            [
+              36.8720860537,
+              -1.2122163778
+            ],
+            [
+              36.8720055874,
+              -1.2122297859
+            ],
+            [
+              36.871820515,
+              -1.2117712307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Utawala Main",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9662887456,
+              -1.2789878103
+            ],
+            [
+              36.9664148094,
+              -1.2788912748
+            ],
+            [
+              36.9665569665,
+              -1.2787974209
+            ],
+            [
+              36.9667205812,
+              -1.2787706055
+            ],
+            [
+              36.966833234,
+              -1.2789395426
+            ],
+            [
+              36.9669056536,
+              -1.2790763012
+            ],
+            [
+              36.9668761493,
+              -1.2791674735
+            ],
+            [
+              36.966768861,
+              -1.2792157413
+            ],
+            [
+              36.9666186573,
+              -1.2792935059
+            ],
+            [
+              36.966473818,
+              -1.2793551814
+            ],
+            [
+              36.9662887456,
+              -1.2789878103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart - Fedha",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8944771345,
+              -1.3136167784
+            ],
+            [
+              36.8946005161,
+              -1.3134907478
+            ],
+            [
+              36.8947882708,
+              -1.3133781246
+            ],
+            [
+              36.8949223812,
+              -1.3133781246
+            ],
+            [
+              36.8950189407,
+              -1.3134532067
+            ],
+            [
+              36.8950833137,
+              -1.3135872819
+            ],
+            [
+              36.8951718266,
+              -1.3136918606
+            ],
+            [
+              36.8951986487,
+              -1.3138018022
+            ],
+            [
+              36.8950538095,
+              -1.3138742028
+            ],
+            [
+              36.8949009235,
+              -1.3139948705
+            ],
+            [
+              36.8947024401,
+              -1.3140431376
+            ],
+            [
+              36.8944771345,
+              -1.3136167784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart - Thindigua",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8326383934,
+              -1.2022994545
+            ],
+            [
+              36.8330246315,
+              -1.2014735159
+            ],
+            [
+              36.8339902268,
+              -1.2018596691
+            ],
+            [
+              36.8338024721,
+              -1.2023745398
+            ],
+            [
+              36.8334752426,
+              -1.202717787
+            ],
+            [
+              36.8326383934,
+              -1.2022994545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Donholm",
+        "description": "Doonholm Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.888648587,
+              -1.3015176251
+            ],
+            [
+              36.8890160496,
+              -1.3019868905
+            ],
+            [
+              36.8885734852,
+              -1.3022952649
+            ],
+            [
+              36.8881765182,
+              -1.3018152735
+            ],
+            [
+              36.888648587,
+              -1.3015176251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Jipange",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8723600188,
+              -1.2333446423
+            ],
+            [
+              36.8725826422,
+              -1.2330764835
+            ],
+            [
+              36.8728991428,
+              -1.2333446423
+            ],
+            [
+              36.8726121465,
+              -1.2336235274
+            ],
+            [
+              36.8723600188,
+              -1.2333446423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart - Westlands",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8016887959,
+              -1.2639709245
+            ],
+            [
+              36.8019141014,
+              -1.2638153942
+            ],
+            [
+              36.8020562585,
+              -1.2637269029
+            ],
+            [
+              36.8021555002,
+              -1.2637054504
+            ],
+            [
+              36.8023352082,
+              -1.2638100311
+            ],
+            [
+              36.8024907764,
+              -1.2639146118
+            ],
+            [
+              36.8025578316,
+              -1.2640915946
+            ],
+            [
+              36.8024451788,
+              -1.2641559519
+            ],
+            [
+              36.8022869285,
+              -1.2642471248
+            ],
+            [
+              36.8021179493,
+              -1.2644080182
+            ],
+            [
+              36.8016887959,
+              -1.2639709245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart - Rongai Main",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.766078849,
+              -1.3926098732
+            ],
+            [
+              36.7662102772,
+              -1.3923792713
+            ],
+            [
+              36.766373892,
+              -1.3921379438
+            ],
+            [
+              36.7665643288,
+              -1.392229112
+            ],
+            [
+              36.7668701007,
+              -1.3924463068
+            ],
+            [
+              36.7668405964,
+              -1.3925911033
+            ],
+            [
+              36.766682346,
+              -1.3928297494
+            ],
+            [
+              36.7664543583,
+              -1.3929718644
+            ],
+            [
+              36.766078849,
+              -1.3926098732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Tom Mboya",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8252750453,
+              -1.2836371063
+            ],
+            [
+              36.8254091558,
+              -1.2834440357
+            ],
+            [
+              36.8256881055,
+              -1.2836397878
+            ],
+            [
+              36.825540584,
+              -1.2838274953
+            ],
+            [
+              36.8252750453,
+              -1.2836371063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Waiyaki Way",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7629459155,
+              -1.263619644
+            ],
+            [
+              36.763208772,
+              -1.2634265719
+            ],
+            [
+              36.7635199082,
+              -1.2633300358
+            ],
+            [
+              36.7637505782,
+              -1.2633193096
+            ],
+            [
+              36.7638954175,
+              -1.263383667
+            ],
+            [
+              36.7639651549,
+              -1.2635123817
+            ],
+            [
+              36.7640402568,
+              -1.2636732751
+            ],
+            [
+              36.763991977,
+              -1.2638824365
+            ],
+            [
+              36.7638310445,
+              -1.2641023241
+            ],
+            [
+              36.7634448064,
+              -1.2642203126
+            ],
+            [
+              36.7630478394,
+              -1.2640272406
+            ],
+            [
+              36.7629459155,
+              -1.263619644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Shirikisho",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0800818,
+          -0.3030447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quick Mart Ruiru",
+        "description": "Ruiru Kamiti Road, Ruiru, Kiambu, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9525630143,
+              -1.1491737815
+            ],
+            [
+              36.953123596,
+              -1.149023608
+            ],
+            [
+              36.9532603886,
+              -1.1494821735
+            ],
+            [
+              36.9531799223,
+              -1.1495411702
+            ],
+            [
+              36.9530484941,
+              -1.1495706686
+            ],
+            [
+              36.9528821971,
+              -1.1496028486
+            ],
+            [
+              36.9526890781,
+              -1.149664527
+            ],
+            [
+              36.9525630143,
+              -1.1491737815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Kahawa West",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9014807621,
+              -1.1831743531
+            ],
+            [
+              36.9019474664,
+              -1.1832843002
+            ],
+            [
+              36.9018562713,
+              -1.1836838641
+            ],
+            [
+              36.901352016,
+              -1.1835685537
+            ],
+            [
+              36.9014807621,
+              -1.1831743531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Kakamega",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.754917,
+          0.282941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Kisii",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.7684892305,
+              -0.6714483187
+            ],
+            [
+              34.7689210662,
+              -0.6717192032
+            ],
+            [
+              34.7685911545,
+              -0.6722958385
+            ],
+            [
+              34.7681405434,
+              -0.6719900877
+            ],
+            [
+              34.7684892305,
+              -0.6714483187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Kitui",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.009731,
+          -1.366346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Mfangano",
+        "description": "Temple Road, Nairobi, Kenya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8280869897,
+              -1.2876916855
+            ],
+            [
+              36.8283632572,
+              -1.2875844243
+            ],
+            [
+              36.8285510118,
+              -1.2878043099
+            ],
+            [
+              36.8284839566,
+              -1.2879276603
+            ],
+            [
+              36.8282747443,
+              -1.2880054247
+            ],
+            [
+              36.8280869897,
+              -1.2876916855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Roasters",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8723291947,
+              -1.2333526739
+            ],
+            [
+              36.8726242377,
+              -1.2330416098
+            ],
+            [
+              36.8729380561,
+              -1.2333151317
+            ],
+            [
+              36.8725974156,
+              -1.2336664197
+            ],
+            [
+              36.8723291947,
+              -1.2333526739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart TMall",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.8163331118,
+              -1.3124656777
+            ],
+            [
+              36.8165101376,
+              -1.3121760751
+            ],
+            [
+              36.816746172,
+              -1.3118274794
+            ],
+            [
+              36.8169553843,
+              -1.3115325137
+            ],
+            [
+              36.8170465794,
+              -1.3114252534
+            ],
+            [
+              36.817298707,
+              -1.3116129589
+            ],
+            [
+              36.817529377,
+              -1.3118382054
+            ],
+            [
+              36.8176903096,
+              -1.3120098218
+            ],
+            [
+              36.8176903096,
+              -1.3123208764
+            ],
+            [
+              36.8175401058,
+              -1.312610479
+            ],
+            [
+              36.8170948592,
+              -1.3130234308
+            ],
+            [
+              36.8163331118,
+              -1.3124656777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Ruaka",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7831787641,
+              -1.2067430312
+            ],
+            [
+              36.7833262856,
+              -1.2067403496
+            ],
+            [
+              36.783497947,
+              -1.2067591209
+            ],
+            [
+              36.7836696084,
+              -1.2067913003
+            ],
+            [
+              36.7837312992,
+              -1.2069039281
+            ],
+            [
+              36.7836508329,
+              -1.2071077307
+            ],
+            [
+              36.7835435446,
+              -1.2072471746
+            ],
+            [
+              36.7833289679,
+              -1.2072900805
+            ],
+            [
+              36.78312512,
+              -1.2072149953
+            ],
+            [
+              36.7830527003,
+              -1.2071345469
+            ],
+            [
+              36.7831787641,
+              -1.2067430312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Ngong",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.6573376711,
+              -1.3577700305
+            ],
+            [
+              36.6575844343,
+              -1.3578129338
+            ],
+            [
+              36.6580430921,
+              -1.3579282364
+            ],
+            [
+              36.6583327707,
+              -1.3579979542
+            ],
+            [
+              36.6582871731,
+              -1.3584430758
+            ],
+            [
+              36.6581557449,
+              -1.3587273101
+            ],
+            [
+              36.6578016933,
+              -1.3587380359
+            ],
+            [
+              36.6573510822,
+              -1.3587460802
+            ],
+            [
+              36.6571472343,
+              -1.3586897697
+            ],
+            [
+              36.6570935901,
+              -1.3586629551
+            ],
+            [
+              36.6573376711,
+              -1.3577700305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Machakos Pioneer",
+        "description": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.267326,
+          -1.520942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QuickMart Kisumu",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.7522742159,
+              -0.102550103
+            ],
+            [
+              34.7526631362,
+              -0.1023516198
+            ],
+            [
+              34.7528535731,
+              -0.10266812
+            ],
+            [
+              34.7524512417,
+              -0.1028773319
+            ],
+            [
+              34.7522742159,
+              -0.102550103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Kileleshwa",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.7883142695,
+              -1.2738634896
+            ],
+            [
+              36.7888399824,
+              -1.273541704
+            ],
+            [
+              36.7892315849,
+              -1.2741477335
+            ],
+            [
+              36.7887166008,
+              -1.2744856082
+            ],
+            [
+              36.7883142695,
+              -1.2738634896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quickmart Utawala",
+        "description": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.9591444298,
+              -1.2826947132
+            ],
+            [
+              36.9595279856,
+              -1.2824265595
+            ],
+            [
+              36.9597264691,
+              -1.2827563886
+            ],
+            [
+              36.959262447,
+              -1.2830138161
+            ],
+            [
+              36.9591444298,
+              -1.2826947132
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
